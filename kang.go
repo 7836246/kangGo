@@ -1,0 +1,5 @@
+package kang
+
+func main() {
+
+}

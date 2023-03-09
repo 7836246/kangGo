@@ -1,3 +1,3 @@
-module kangGo
+module kang
 
 go 1.20
